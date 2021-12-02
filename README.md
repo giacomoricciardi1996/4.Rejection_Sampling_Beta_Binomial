@@ -1,1 +1,1 @@
-**Context**: Bayesian Statistical Methods Exams, I did an exercise on R to understand / test the accept/reject sampling with prior and posterior distribution.
+**Context**: Brief exercise conducted during the Bayesian Statistical Methods exam: I did an exercise on R to understand / test the accept/reject sampling with prior and posterior distribution (uniform vs. Beta(1,2))
